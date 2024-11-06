@@ -1,0 +1,17 @@
+{
+    "name": "personal-details-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js application to display personal details",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.3"
+    },
+    "devDependencies": {},
+    "keywords": [],
+    "author": "Your Name",
+    "license": "ISC"
+  }
+  
